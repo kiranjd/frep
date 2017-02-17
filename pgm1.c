@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+it main()
 {
  printf("git_git");
  return 0;
